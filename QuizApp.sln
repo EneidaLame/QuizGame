@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "QuizApp", ".", "{CAA7AB38-8CD6-408A-A9C4-AC25B6F21763}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62025"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\QuizApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62025\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62025"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\QuizApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62025\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62025"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA7AB38-8CD6-408A-A9C4-AC25B6F21763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA7AB38-8CD6-408A-A9C4-AC25B6F21763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE0F234-0436-4089-BD22-16FDA81B7925}
+	EndGlobalSection
+EndGlobal
